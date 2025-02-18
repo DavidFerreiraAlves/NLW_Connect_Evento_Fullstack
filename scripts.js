@@ -4,8 +4,7 @@ const formAction = () => {
     const form = document.getElementById("form")
     form.onsubmit = (event) => {
         event.preventDefault()
-        alert("VAI DORMIR SEU CORNO!")
-    }
+        
 }
 
 const startApp = () => {
